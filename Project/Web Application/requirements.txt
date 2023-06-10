@@ -1,0 +1,5 @@
+fastapi
+Pillow
+starlette
+uvicorn
+gunicorn
