@@ -17,7 +17,7 @@
 | 3      | 20521183      | Huỳnh Đình Kim Điền    |Thành viên |[kimdiendo](https://github.com/kimdiendo)                |20521183@gm.uit.edu.vn   |
 
 ## GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** NHẬN DẠNG - 
+* **Tên môn học:** NHẬN DẠNG  
 * **Mã môn học:** CS338
 * **Mã lớp:** CS338.N21.KHCL
 * **Năm học:** HK2 (2022 - 2023)
