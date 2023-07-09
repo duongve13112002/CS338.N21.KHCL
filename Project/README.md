@@ -1,5 +1,6 @@
 # Final Project
 Developing a convolutional neural network using TensorFlow and Google's Quick, Draw! [dataset](https://github.com/googlecreativelab/quickdraw-dataset) to recognize hand-drawn images. Additionally, create a web application that allows users to draw images.
+
 You can find a webapp demo [here](https://huggingface.co/spaces/duongve/Quick-Draw.Webapp).
 
 ## Setup
