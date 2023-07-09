@@ -36,4 +36,4 @@ docker build . -t quickdraw-webapp
 docker run -p 443:443 quickdraw-webapp
 ```
 
-The webapp should be available at [http://127.0.0.1:443/](http://127.0.0.1:443/).
+The webapp should be available at [http://127.0.0.1:443](http://127.0.0.1:443).
