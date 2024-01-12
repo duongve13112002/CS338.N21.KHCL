@@ -6,7 +6,8 @@
 </p>
 
 <!-- Header -->
-<h1 align="center"><b>NHẬN DẠNG</b></h>
+<h1 align="center"><b>NHẬN DẠNG<br>(PATTERN RECOGNITION)</b></h>
+
 
 <!-- Main -->
 # Thành viên nhóm:
